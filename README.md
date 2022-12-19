@@ -5,8 +5,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Preview<br>
 ## Links &#128269;
 <ul>
-<li>Live Site URL: <a href="https://0xabdul.github.io/Product-Preview-Card-Component/">Click Here</a></li><br>
-<li>Solution URL: <a href="https://www.frontendmentor.io/talent/0xAbdul/projects/product-preview-card-component-Olnvsz9g5f">Click Here</a></li>
+<li>Live Site URL: <a href="">Click Here</a></li><br>
+<li>Solution URL: <a href="">Click Here</a></li>
 </ul><br>
 
 ## Built with &#128295;
