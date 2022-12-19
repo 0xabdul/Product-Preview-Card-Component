@@ -31,7 +31,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 
 ## Author<br>
-- Frontend Mentor - [@oxabdul](https://www.frontendmentor.io/profile/0xAbdul)<br>
+- Frontend Mentor - [@oxabdul](https://www.frontendmentor.io/profile/0xAbdul)<br.
 
 
 
